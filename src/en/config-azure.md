@@ -1,4 +1,5 @@
 # Configuring for Windows Azure
+THIS IS A TEST
 This process requires you to have an Windows Azure account. If you have not
 signed up for one yet, it can obtained at http://azure.microsoft.com/en-us/.
 
