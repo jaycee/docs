@@ -1,5 +1,5 @@
 # Configuring for Windows Azure
-
+TEST LINE IGNORE IGNORE
 This process requires you to have an Windows Azure account. If you have not
 signed up for one yet, it can obtained at http://azure.microsoft.com/en-us/.
 
