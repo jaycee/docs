@@ -1,4 +1,5 @@
 # Configuring for Joyent Cloud 
+TEST TEST TEST.
 
 This process requires you to have a Joyent account. If you have not signed up
 for one yet, you can do so at
